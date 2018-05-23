@@ -12,6 +12,8 @@ Neste outro hiperlink, está disponível uma tradução da apostila "Python for 
 
 [Apostila "Python para Informática"](http://destacom.sites.ufms.br/files/2015/05/apostila.pdf "Clica aqui, abestado!")
 
+Aulas do [d4n1](d4n1.org "Daniel Pimentel"): [Speaker Deck](https://speakerdeck.com/search?q=d4n1+python "Clica aqui também, sujeito(a)!")
+
 ![Convite](https://github.com/leonardotoledo/codingdojo/raw/master/convite.jpeg "Convite")
 
 Olá, viajante!
