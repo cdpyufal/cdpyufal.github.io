@@ -8,6 +8,12 @@ No hiperlink abaixo, encontram-se vários problemas que já podem ser feitos:
 
 [Acesse aqui o site do The Huxley](https://www.thehuxley.com/problems?page=1&problemType=ALGORITHM "Problemas do The Huxley")
 
+Neste outro hiperlink, está disponível uma tradução da apostila "Python for Informatics" de Charles Severance, feita por pessoas da Universidade Federal de Mato Grosso do Sul:
+
+[Apostila "Python para Informática"](http://destacom.sites.ufms.br/files/2015/05/apostila.pdf "Clica aqui, abestado!")
+
+Aulas do [d4n1](http://d4n1.org "Daniel Pimentel"): [Speaker Deck](https://speakerdeck.com/search?q=d4n1+python "Clica aqui também, sujeito(a)!")
+
 ![Convite](https://github.com/leonardotoledo/codingdojo/raw/master/convite.jpeg "Convite")
 
 Olá, viajante!
