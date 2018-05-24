@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mural"
-tags: Mural
+tags: tag1
 ---
 
 ## Coding Dojo | UFAL
