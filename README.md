@@ -2,7 +2,7 @@
 
 A primeira reunião já ocorreu! Quer saber o que foi debatido? Acesse o seguinte link:
 
-[ATA DA REUNIÃO](https://raw.githubusercontent.com/leonardotoledo/codingdojo/master/atas%20de%20reuniao/20180522%20encontro%201.txt "Clica aqui, abestado!")
+[ATA DA REUNIÃO](https://raw.githubusercontent.com/leonardotoledo/codingdojo/master/atas%20de%20reuniao/Ata%20de%20Reunião%201.pdf "Clica aqui, abestado!")
 
 No hiperlink abaixo, encontram-se vários problemas que já podem ser feitos:
 
