@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://cdpyufal.github.io
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: codingDojo.py | UFAL
+description: Coding Dojo
 google_verification: null
 
 
