@@ -82,7 +82,10 @@
 				<li>{{ page.date | date: '%B %-d, %Y' }}</li>
 			</ul>
 			<div class="post_content">
-        		{{ content }}
+<!--				{{ content }}
+				{% if page.title %}
+					{% include donate.html %}
+				{% endif %} -->
 			</div>
 		</div>
     {% endif %}
