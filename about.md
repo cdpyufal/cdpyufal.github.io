@@ -1,5 +1,5 @@
 ---
-layout: me
+layout: about
 title: "Membros"
 filetype: txt
 ---
