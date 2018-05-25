@@ -3,7 +3,7 @@ layout: default
 ---
 <ul>
 	{% for post in site.posts %}
-	{% if '.pdf' in post.title %}
+	{% if ".pdf" in post.title %}
 	<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/pdf.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 	{% else %}
 	<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
