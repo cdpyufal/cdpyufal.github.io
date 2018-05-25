@@ -3,7 +3,7 @@ layout: about
 title: "Membros"
 filetype: txt
 ---
-<center>
+<p style="text-align: center;">
 ## Membros atuais:
 ---
 **[Gabriel Domingos](https://gabrielrdomingos.github.io/ "I'm Gabriel.")** | **E-mail:** [gabrielr.domingos@gmail.com](mailto:gabrielr.domingos@gmail.com "Gabriel's E-mail")
@@ -14,4 +14,4 @@ filetype: txt
 **Victor Raphael do Nascimento** | **E-mail:** [victorrhl00@gmail.com](mailto:victorrhl00@gmail.com "Rodrigo's E-mail")
 **Yan Cardoso** | **E-mail:** [yancarmello84@gmail.com](mailto:yancarmello84@gmail.com "Yan's E-mail")
 ---
-</center>
+</p>
