@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: me
 title: "Membros"
-tags: cdpyufal
 filetype: txt
 ---
 
@@ -12,4 +11,4 @@ filetype: txt
 **[Leonardo Tolêdo](http://leonardotoledo.org/ "I'm Leonardo")** | **E-mail:** [contato@leonardotoledo.org](mailto:contato@leonardotoledo.org "Leonardo's E-mail")
 **Pedro Almeida** | **E-mail:** [pedro_halmeida@outlook.com](mailto:pedro_halmeida@outlook.com "Pedro's E-mail")
 **Rodrigo Perdigão** | **E-mail:** [rodrigo.pgb@hotmail.com](mailto:rodrigo.pgb@hotmail.com "Rodrigo's E-mail")
-**Yan Cardoso | **E-mail:** [yancarmello84@gmail.com](mailto:yancarmello84@gmail.com "Yan's E-mail")
+**Yan Cardoso** | **E-mail:** [yancarmello84@gmail.com](mailto:yancarmello84@gmail.com "Yan's E-mail")
