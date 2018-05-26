@@ -3,10 +3,9 @@ url: https://cdpyufal.github.io
 baseurl: /project
 
 # variables
-name: codingDojo.py | UFAL
-description: Coding Dojo
+name: CD Py | UFAL
+description: Coding Dojo CTEC Group
 google_verification: null
-
 
 # File management
 include: [".htaccess"]
