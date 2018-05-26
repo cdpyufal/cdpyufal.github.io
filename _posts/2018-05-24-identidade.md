@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: "Diretrizes do Grupo (Leitura Obrigatória).pdf"
-tags: cdpyufal
+tags: documentos
 filetype: pdf
 ---
 
