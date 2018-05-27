@@ -26,5 +26,5 @@ filetype: txt
 | **Leonardo Tolêdo Ferreira** | **E-mail:** [contato@leonardotoledo.org](mailto:contato@leonardotoledo.org "Leonardo's E-mail") | **Site:** [leonardotoledo.org](http://leonardotoledo.org/ "I'm Leonardo.") |
 | **Pedro Henrique de Almeida Marques** | **E-mail:** [pedro_halmeida@outlook.com](mailto:pedro_halmeida@outlook.com "Pedro's E-mail") | |
 | **Rodrigo Perdigão Gomes Bezerra** | **E-mail:** [rodrigo.pgb@hotmail.com](mailto:rodrigo.pgb@hotmail.com "Rodrigo's E-mail") | |
-| **Victor Raphael Melo do Nascimento** | **E-mail:** [victorrhl00@gmail.com](mailto:victorrhl00@gmail.com "Rodrigo's E-mail") | |
+| **Victor Raphael Melo do Nascimento** | **E-mail:** [victorrhl00@gmail.com](mailto:victorrhl00@gmail.com "Victor's E-mail") | |
 | **Yan Cardoso Barbosa Malheiros Mello** | **E-mail:** [yancarmello84@gmail.com](mailto:yancarmello84@gmail.com "Yan's E-mail") | |
