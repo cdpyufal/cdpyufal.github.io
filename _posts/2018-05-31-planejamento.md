@@ -5,4 +5,4 @@ tags: documentos
 filetype: xls
 ---
 
-<center><iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/cdpyufal/cdpyufal.github.io/master/assets/spreadsheets/planejamento.xlsm&embedded=true" style="width:750px; height:700px;" frameborder="0"></iframe></center>
+<center><iframe src="https://docs.google.com/viewer?srcid=1JK8y7KyHqpZRaS879nuy1kQuAsbLR7I29f9B5oW7n5w&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:750px; height:700px;" frameborder="0"></iframe></center>
