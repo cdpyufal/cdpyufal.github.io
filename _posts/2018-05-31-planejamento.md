@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: "Diretrizes do Grupo (Leitura Obrigatória).xls"
+title: "Planejamento.xls"
 tags: documentos
 filetype: xls
 ---
