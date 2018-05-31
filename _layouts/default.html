@@ -53,6 +53,7 @@
 									<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/xls.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 								{% else %}
 									<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+								{% endif %}
 							{% endif %}
 						{% endfor %}
 					</ul>
@@ -69,6 +70,7 @@
 								<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/xls.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 							{% else %}
 								<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+							{% endif %}
 						{% endif %}
 					{% endfor %}
 				</ul>
